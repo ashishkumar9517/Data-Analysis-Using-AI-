@@ -2,7 +2,7 @@
 Data Analysis Using AI :-  when I upload my files into this AI tools first of all it's clean my data using python after that it's give me final insights which is given into repository. 
 
 
-# Coffee Shop Sales Analysis (Jan-Jun 2023)
+# Coffee Shop Sales Analysis Through AI(Jan-Jun 2023)
 
 I pulled apart six months of point-of-sale data from a three-location coffee chain to figure out where their revenue growth was actually coming from, and where it wasn't.
 
